@@ -2,8 +2,8 @@
   This project implements an automated attendance system using Face Recognition. It captures faces, trains a model, and detects faces in real-time to log attendance. The system enhances accuracy, eliminates         manual errors, and improves efficiency in attendance tracking.
 
 **Key Features**
-  Detects and recognizes faces in real-time
-  Stores images and attendance records in a database
+  Detects and recognizes faces in real-time<br>
+  Stores images and attendance records in a database<br>
   Uses OpenCV’s LBPH algorithm for face recognition
   Prevents duplicate attendance entries
   Works efficiently under different lighting conditions
@@ -23,10 +23,10 @@
 **Installation & Usage**
   1. Install Dependencies
       Ensure you have Python 3.7+ installed. Run the following command:
-      pip install opencv-python numpy sqlite3
+      **pip install opencv-python numpy sqlite3**
 
   2. For capturing Faces, Training, Detecting and taking Attendence log
-      python SmartFaceTrack
+      **python SmartFaceTrack**
      
 **Advantages**
   Fully automated attendance system
