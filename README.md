@@ -1,7 +1,7 @@
 **Overview** <br>
   This project implements an automated attendance system using Face Recognition. It captures faces, trains a model, and detects faces in real-time to log attendance. The system enhances accuracy, eliminates         manual errors, and improves efficiency in attendance tracking.
 
-**Key Features** <br>
+**Key Features** 
     Detects and recognizes faces in real-time<br>
   Stores images and attendance records in a database<br>
   Uses OpenCV’s LBPH algorithm for face recognition<br>
