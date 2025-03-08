@@ -4,20 +4,20 @@
 **Key Features**
   Detects and recognizes faces in real-time<br>
   Stores images and attendance records in a database<br>
-  Uses OpenCV’s LBPH algorithm for face recognition
-  Prevents duplicate attendance entries
+  Uses OpenCV’s LBPH algorithm for face recognition<br>
+  Prevents duplicate attendance entries<br>
   Works efficiently under different lighting conditions
 
 **Tech Stack**
-  Programming Language: Python 
-  Libraries: OpenCV, NumPy, SQLite3
-  Algorithm: Local Binary Patterns Histogram (LBPH)
+  Programming Language: Python <br>
+  Libraries: OpenCV, NumPy, SQLite3 <br>
+  Algorithm: Local Binary Patterns Histogram (LBPH) <br>
   Database: SQLite
 
 **System Workflow**
-  Face Capture → Captures face images and stores them in a database.
-  Model Training → Trains an LBPH-based recognition model using stored images.
-  Face Detection & Recognition → Detects faces in real-time and matches them with stored data.
+  Face Capture → Captures face images and stores them in a database. <br>
+  Model Training → Trains an LBPH-based recognition model using stored images. <br>
+  Face Detection & Recognition → Detects faces in real-time and matches them with stored data. <br>
   Attendance Logging → Marks attendance if a match is found and prevents duplicate entries.
 
 **Installation & Usage**
@@ -29,15 +29,15 @@
       **python SmartFaceTrack**
      
 **Advantages**
-  Fully automated attendance system
-  Reduces manual effort and human errors
-  Ensures accuracy and prevents duplicate attendance
+  Fully automated attendance system <br>
+  Reduces manual effort and human errors <br>
+  Ensures accuracy and prevents duplicate attendance <br>
   Can be integrated into schools, offices, and organizations
 
 **Future Enhancements**
-  Upgrade to deep learning models for improved accuracy 
-  Integrate with cloud databases
-  Implement multi-face detection & recognition in one frame
+  Upgrade to deep learning models for improved accuracy <br>
+  Integrate with cloud databases <br>
+  Implement multi-face detection & recognition in one frame <br>
 
 **Connect With Me**
   LinkedIn Profile: https://www.linkedin.com/in/sai-teja-kotipalli-8b83b7259
