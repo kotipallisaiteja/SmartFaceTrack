@@ -24,9 +24,10 @@
   1. Install Dependencies
       Ensure you have Python 3.7+ installed. Run the following command:
       pip install opencv-python numpy sqlite3
-
+<br>
   2. For capturing Faces, Training, Detecting and taking Attendence log
       python SmartFaceTrack
+     
 **Advantages**
   Fully automated attendance system
   Reduces manual effort and human errors
